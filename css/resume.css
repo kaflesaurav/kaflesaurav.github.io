@@ -40,7 +40,13 @@ h2 {
 
 h3 {
   font-size: 2rem;
-  text-transform: lowercase;
+}
+
+h7 {
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 2rem;
+  font-weight: 700;
+  color: #343a40;
 }
 
 p.lead {
